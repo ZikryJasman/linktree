@@ -31,7 +31,7 @@ const props = defineProps({
 });
 useHead({
   title: "Liktree TechZikry",
-  meta: [{ name: "description", content: "Linktree Zikry." }],
+  meta: [{ name: "description", content: "Linktree Zikry" }],
   bodyAttrs: {
     class: "test",
   },
